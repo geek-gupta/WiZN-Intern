@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TaskThreeWiZN</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Register</string>
+    <string name="logOut">Log Out</string>
+</resources>

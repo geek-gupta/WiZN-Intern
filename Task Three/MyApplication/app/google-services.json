@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "585039725885",
+    "firebase_url": "https://taskthreewizn.firebaseio.com",
+    "project_id": "taskthreewizn",
+    "storage_bucket": "taskthreewizn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:585039725885:android:bf01fa37fbfdd509",
+        "android_client_info": {
+          "package_name": "com.company.charnear.taskthreewizn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "585039725885-grdfvhtgsin7j5l7m6nevpl50eo62jdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqTeU3MZBlSFzxNygdM2VqNqncsE0PAiM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
